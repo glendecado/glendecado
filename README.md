@@ -1,4 +1,4 @@
-# ✯ About ✯
+# 👤 ✯ About ✯
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Glen+Brian+Decado,;Iloilo+Science+And+Technology+University;TALL+stack)](https://git.io/typing-svg)
 
@@ -10,9 +10,7 @@ I am committed to creating dynamic, responsive, and user-friendly applications t
 
 ## Tech Stack
 
-This project is built using the **TALL Stack**, which combines four powerful technologies that work seamlessly together to create dynamic, responsive, and modern web applications.
-
-### 🔥 The TALL Stack
+### 🔥 TALL Stack
 
 - **[Tailwind CSS](https://tailwindcss.com/)** - A utility-first CSS framework that enables you to create custom designs quickly and efficiently. With Tailwind, you can focus on building user interfaces without writing custom CSS, making your development process faster and more productive.
   
