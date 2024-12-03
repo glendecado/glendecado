@@ -13,16 +13,16 @@ I am committed to creating dynamic, responsive, and user-friendly applications t
 ### 🔥 TALL Stack
 
 
-<img src="https://raw.githubusercontent.com/glendecado/glendecado/refs/heads/main/tailwind.png" alt="Tailwind CSS Logo" width="200" height="auto">
+!<img src="https://raw.githubusercontent.com/glendecado/glendecado/refs/heads/main/tailwind.png" alt="Tailwind CSS Logo" width="200" height="auto">
 - **[Tailwind CSS](https://tailwindcss.com/)** - A utility-first CSS framework that enables you to create custom designs quickly and efficiently. With Tailwind, you can focus on building user interfaces without writing custom CSS, making your development process faster and more productive.
 
-<img src="https://raw.githubusercontent.com/glendecado/glendecado/refs/heads/main/tailwind.png" alt="Tailwind CSS Logo" width="200" height="auto">
+!<img src="https://raw.githubusercontent.com/glendecado/glendecado/refs/heads/main/tailwind.png" alt="Tailwind CSS Logo" width="200" height="auto">
 - **[AlpineJS](https://alpinejs.dev/)** - A lightweight JavaScript framework that provides reactivity and interactivity for your application. AlpineJS allows you to write concise, declarative code directly in your HTML, making it an ideal choice for small to medium-sized web applications.
 
-<img src="https://raw.githubusercontent.com/glendecado/glendecado/refs/heads/main/tailwind.png" alt="Tailwind CSS Logo" width="200" height="auto">
+!<img src="https://raw.githubusercontent.com/glendecado/glendecado/refs/heads/main/tailwind.png" alt="Tailwind CSS Logo" width="200" height="auto">
 - **[Laravel](https://laravel.com/)** - A robust and elegant PHP framework that powers the back-end of this application. Laravel offers a variety of features like routing, authentication, Eloquent ORM, migrations, and more to help you build scalable and maintainable applications.
 
-<img src="https://raw.githubusercontent.com/glendecado/glendecado/refs/heads/main/tailwind.png" alt="Tailwind CSS Logo" width="200" height="auto">
+!<img src="https://raw.githubusercontent.com/glendecado/glendecado/refs/heads/main/tailwind.png" alt="Tailwind CSS Logo" width="200" height="auto">
 - **[Livewire](https://livewire.io/)** - A full-stack framework for Laravel that allows you to create dynamic, real-time components with minimal JavaScript. Livewire brings the reactivity of modern JavaScript frameworks to your Laravel apps while keeping the simplicity and elegance of server-side code.
 
 ---
