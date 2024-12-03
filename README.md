@@ -1,5 +1,12 @@
 ### ✯ About
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Glen+Brian+Decado,;Iloilo+Science+And+Technology+University;TALL+stack)](https://git.io/typing-svg)
+
+Hello! I'm **Glen Brian Decado**, a passionate web developer from **Iloilo Science And Technology University**. I specialize in building modern and scalable web applications using the **TALL Stack** (Tailwind CSS, AlpineJS, Laravel, Livewire). 
+
+I am committed to creating dynamic, responsive, and user-friendly applications that not only work efficiently but also provide a delightful user experience.
+
+---
 
 # Tech Stack
 
@@ -15,5 +22,15 @@ This project is built using the **TALL Stack**, which combines four powerful tec
 
 - **[Livewire](https://livewire.io/)** - A full-stack framework for Laravel that allows you to create dynamic, real-time components with minimal JavaScript. Livewire brings the reactivity of modern JavaScript frameworks to your Laravel apps while keeping the simplicity and elegance of server-side code.
 
+---
+
 ### ✯ Contacts
 
+You can reach me through the following channels:
+
+- 📧 **Email**: [glenbriandecado@gmail.com](mailto:glenbriandecado@gmail.com)
+- 🌍 **LinkedIn**: [Glen Brian Decado](https://www.linkedin.com/in/glen-brian-decado/)
+- 💻 **GitHub**: [glenbriandecado](https://github.com/glenbriandecado)
+- 🌐 **Portfolio**: [glenbriandecado.dev](https://glenbriandecado.dev)
+
+Feel free to reach out to me if you have any questions or would like to collaborate!
