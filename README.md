@@ -6,7 +6,10 @@
 </a>
 
 <img src="https://tailwindcss.com/_next/static/media/tailwind-logo.1d1fd9c7.svg" width="100" />
-<img src="https://laravel.com/img/logotype.min.svg" width="100" />
+<a href="/" class="flex items-center py-8 px-4 lg:px-8 xl:px-16">
+                        <img class="w-8 h-8 shrink-0 transition-all duration-300 lg:w-12 lg:h-12" src="/img/logomark.min.svg" alt="Laravel" width="50" height="52">
+                        <img src="/img/logotype.min.svg" alt="Laravel" class="hidden ml-4 lg:block" width="114" height="29">
+                    </a>
 <img src="https://livewire.io/img/logo.svg" width="100" />
 <img src="https://alpinejs.dev/alpine_long.svg" width="100" />
 
