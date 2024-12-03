@@ -8,7 +8,7 @@ I am committed to creating dynamic, responsive, and user-friendly applications t
 
 ---
 
-## Tech Stack
+## 👨🏻‍💻 Tech Stack
 
 ### 🔥 TALL Stack
 
@@ -22,7 +22,7 @@ I am committed to creating dynamic, responsive, and user-friendly applications t
 
 ---
 
-# ✯ Contacts ✯
+# 📞 ✯ Contacts ✯
 
 You can reach me through the following channels:
 
