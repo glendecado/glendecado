@@ -1,6 +1,6 @@
 # 👤 ✯ About ✯
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Glen+Brian+Decado,;Iloilo+Science+And+Technology+University;TALL+stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Glen+Brian+Decado,;Full+stack+dev;TALL+stack)](https://git.io/typing-svg)
 
 Hello! I'm **Glen Brian Decado**, a passionate web developer from **Iloilo Science And Technology University**. I specialize in building modern and scalable web applications using the **TALL Stack** (Tailwind CSS, AlpineJS, Laravel, Livewire). 
 
@@ -8,7 +8,7 @@ I am committed to creating dynamic, responsive, and user-friendly applications t
 
 ---
 
-## 👨🏻‍💻 Tech Stack
+## 👨🏻‍💻 My Tech Stack
 
 ### 🔥 TALL Stack
 
