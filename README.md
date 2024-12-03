@@ -13,10 +13,10 @@ I am committed to creating dynamic, responsive, and user-friendly applications t
 ### 🔥 TALL Stack
 
 
-
+### <img src="https://raw.githubusercontent.com/glendecado/glendecado/refs/heads/main/tailwind%402x-2.png" />
 - **[Tailwind CSS](https://tailwindcss.com/)** - A utility-first CSS framework that enables you to create custom designs quickly and efficiently. With Tailwind, you can focus on building user interfaces without writing custom CSS, making your development process faster and more productive.
 
-<img src="https://downloads.marketplace.jetbrains.com/files/15251/536579/icon/pluginIcon.png" width="200" height="200" />
+
 - **[AlpineJS](https://alpinejs.dev/)** - A lightweight JavaScript framework that provides reactivity and interactivity for your application. AlpineJS allows you to write concise, declarative code directly in your HTML, making it an ideal choice for small to medium-sized web applications.
 
 - **[Laravel](https://laravel.com/)** - A robust and elegant PHP framework that powers the back-end of this application. Laravel offers a variety of features like routing, authentication, Eloquent ORM, migrations, and more to help you build scalable and maintainable applications.
