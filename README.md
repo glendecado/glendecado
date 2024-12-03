@@ -24,7 +24,7 @@ This project is built using the **TALL Stack**, which combines four powerful tec
 
 ---
 
-### ✯ Contacts
+# ✯ Contacts
 
 You can reach me through the following channels:
 
