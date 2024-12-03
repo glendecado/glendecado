@@ -12,6 +12,7 @@ I am committed to creating dynamic, responsive, and user-friendly applications t
 
 ### 🔥 TALL Stack
 
+
 - **[Tailwind CSS](https://tailwindcss.com/)** - A utility-first CSS framework that enables you to create custom designs quickly and efficiently. With Tailwind, you can focus on building user interfaces without writing custom CSS, making your development process faster and more productive.
   
 - **[AlpineJS](https://alpinejs.dev/)** - A lightweight JavaScript framework that provides reactivity and interactivity for your application. AlpineJS allows you to write concise, declarative code directly in your HTML, making it an ideal choice for small to medium-sized web applications.
@@ -32,3 +33,6 @@ You can reach me through the following channels:
 - 🌐 **Portfolio**: [gibidex.great-site.net](http://gibidex.great-site.net)
 
 Feel free to reach out to me if you have any questions or would like to collaborate!
+
+
+<img src="https://petermekhaeil.gallerycdn.vsassets.io/extensions/petermekhaeil/vscode-tailwindcss-explorer/0.7.0/1655742967328/Microsoft.VisualStudio.Services.Icons.Default" />
