@@ -28,9 +28,9 @@ This project is built using the **TALL Stack**, which combines four powerful tec
 
 You can reach me through the following channels:
 
-- 📧 **Email**: [glenbriandecado@gmail.com](mailto:glenbriandecado@gmail.com)
+- 📧 **Email**: [glendecado@gmail.com](mailto:glendecado@gmail.com)
 - 🌍 **LinkedIn**: [Glen Brian Decado](https://www.linkedin.com/in/glen-brian-decado/)
-- 💻 **GitHub**: [glenbriandecado](https://github.com/glenbriandecado)
+- 💻 **GitHub**: [glendecado](https://github.com/glendecado)
 - 🌐 **Portfolio**: [gibidex.great-site.net](http://gibidex.great-site.net)
 
 Feel free to reach out to me if you have any questions or would like to collaborate!
