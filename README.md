@@ -16,7 +16,7 @@ I am committed to creating dynamic, responsive, and user-friendly applications t
 <img src="https://petermekhaeil.gallerycdn.vsassets.io/extensions/petermekhaeil/vscode-tailwindcss-explorer/0.7.0/1655742967328/Microsoft.VisualStudio.Services.Icons.Default" width="200" height="200" />
 - **[Tailwind CSS](https://tailwindcss.com/)** - A utility-first CSS framework that enables you to create custom designs quickly and efficiently. With Tailwind, you can focus on building user interfaces without writing custom CSS, making your development process faster and more productive.
 
-<img src="https://lh3.googleusercontent.com/SOBUQZz4rPZ0-wVK3BMxzCfaYZ9RB8kRstKjIPZuCZ16tfXI8CAsn713QLaAo3eUpIaakh6R3Ndyc9EVIOEXXoYYMB0=s128-rj-sc0x00ffffff" width="200" height="200" />
+<img src="https://downloads.marketplace.jetbrains.com/files/15251/536579/icon/pluginIcon.png" width="200" height="200" />
 - **[AlpineJS](https://alpinejs.dev/)** - A lightweight JavaScript framework that provides reactivity and interactivity for your application. AlpineJS allows you to write concise, declarative code directly in your HTML, making it an ideal choice for small to medium-sized web applications.
 
 - **[Laravel](https://laravel.com/)** - A robust and elegant PHP framework that powers the back-end of this application. Laravel offers a variety of features like routing, authentication, Eloquent ORM, migrations, and more to help you build scalable and maintainable applications.
