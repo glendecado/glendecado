@@ -5,9 +5,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glendecado&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
 
-<a href="">
-   <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=glendecado&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl](https://alpinejs.dev/alpine_long.svg)" />
-</a>
+![AlpineJS Logo](https://alpinejs.dev/alpine_long.svg)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ### ✯ Contacts
