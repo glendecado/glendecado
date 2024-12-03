@@ -13,7 +13,7 @@ I am committed to creating dynamic, responsive, and user-friendly applications t
 ### 🔥 TALL Stack
 
 
-<img src="https://your-repo-link-to-updated-image.png" alt="Tailwind CSS Logo" width="200" height="auto">
+<img src="https://raw.githubusercontent.com/glendecado/glendecado/refs/heads/main/tailwind.png" alt="Tailwind CSS Logo" width="200" height="auto">
 - **[Tailwind CSS](https://tailwindcss.com/)** - A utility-first CSS framework that enables you to create custom designs quickly and efficiently. With Tailwind, you can focus on building user interfaces without writing custom CSS, making your development process faster and more productive.
 
 
