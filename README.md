@@ -13,7 +13,7 @@ I am committed to creating dynamic, responsive, and user-friendly applications t
 ### 🔥 TALL Stack
 
 
-<img src="https://petermekhaeil.gallerycdn.vsassets.io/extensions/petermekhaeil/vscode-tailwindcss-explorer/0.7.0/1655742967328/Microsoft.VisualStudio.Services.Icons.Default" width="200" height="200" />
+
 - **[Tailwind CSS](https://tailwindcss.com/)** - A utility-first CSS framework that enables you to create custom designs quickly and efficiently. With Tailwind, you can focus on building user interfaces without writing custom CSS, making your development process faster and more productive.
 
 <img src="https://downloads.marketplace.jetbrains.com/files/15251/536579/icon/pluginIcon.png" width="200" height="200" />
