@@ -4,7 +4,7 @@
 
 Hello! I'm **Glen Brian Decado**, a passionate web developer from **Iloilo Science And Technology University**. I specialize in building modern and scalable web applications using the **TALL Stack** (Tailwind CSS, AlpineJS, Laravel, Livewire). 
 
-I am committed to creating dynamic, responsive, and user-friendly applications that not only work efficiently but also provide a delightful user experience.
+I am committed to creating dynamic, responsive, and user-friendly applications that not only work efficiently but also provide a delightful user experience. 
 
 ---
 
