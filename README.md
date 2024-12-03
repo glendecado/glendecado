@@ -5,10 +5,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glendecado&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
 
-![Tailwind CSS](https://tailwindcss.com/_next/static/media/tailwind-logo.1d1fd9c7.svg)
-![AlpineJS](https://alpinejs.dev/alpine_long.svg)
-![Laravel](https://laravel.com/img/logotype.min.svg)
-![Livewire](https://livewire.io/img/logo.svg)
+<img src="https://tailwindcss.com/_next/static/media/tailwind-logo.1d1fd9c7.svg" width="100" />
+<img src="https://laravel.com/img/logotype.min.svg" width="100" />
+<img src="https://livewire.io/img/logo.svg" width="100" />
+<img src="https://alpinejs.dev/alpine_long.svg" width="100" />
 
 
 
