@@ -1,3 +1,32 @@
-<p align="center">
-  <img src="hello_world.gif" alt="hello world">
-</p>
+# Hi there, I'm Glen Brian 👋
+
+Welcome to my GitHub profile! I'm a passionate developer who loves building and learning new things in tech. Here you'll find some of my projects, experiments, and contributions to the open-source community.
+
+---
+
+## 🌱 About Me
+
+- 💻 I love exploring **Technologies**
+- 📚 Improving my **Communications** and soft skills alongside coding
+- 🎮 Enjoy gaming, though I’m more focused on development these days
+- 🌍 Based in **Philippines**
+
+---
+
+## 🛠️ Tech & Tools
+
+- **Languages:** PHP, JavaScript, HTML, CSS
+- **Frameworks & Libraries:** Laravel, Livewire, Tailwind CSS
+- **Tools:** Git, Composer, Node.js, VS Code
+
+## 📈 GitHub Stats
+
+![Glen Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: [Your LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/glen-brian-decado-1229002a4/))
+- Email: glen.decado@gmail.com
+- Personal website: https://glendecado.vercel.app/
