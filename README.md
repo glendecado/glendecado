@@ -21,7 +21,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building and 
 
 ## 📈 GitHub Stats
 
-![Glen Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=glendecado&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=glendecado&hide_rank=true&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glendecado&layout=compact&theme=tokyonight" />
+</div>
+
 
 ---
 
