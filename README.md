@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building and 
 ## 🌱 About Me
 
 - 💻 I love exploring **Technologies**
-- 📚 Improving my **Communications** and soft skills alongside coding
 - 🎮 Enjoy gaming, though I’m more focused on development these days
 - 🌍 Based in **Philippines**
 
