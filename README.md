@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building and 
 ## 🛠️ Tech & Tools
 
 - **Languages:** PHP, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** Laravel, Livewire, Tailwind CSS
+- **Frameworks & Libraries:** Laravel, Livewire, Tailwind CSS, React, Inertia.js, Alpine.js, Framer Motion
 - **Tools:** Git, Composer, Node.js, VS Code
 
 ## 📈 GitHub Stats
