@@ -1,4 +1,5 @@
 # Hi there, I'm Glen Brian 👋
+<meta name="description" content="Hello">
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building and learning new things in tech. Here you'll find some of my projects, experiments, and contributions to the open-source community.
 
