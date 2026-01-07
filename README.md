@@ -39,7 +39,37 @@ ny name is
    | `.:.' |          | `.:.' |          | `.:.' |          | `.:.' |
 </pre>
 
+<pre>
+$ whoami
+> Glen Brian Decado
 
+$ location
+> Philippines 🇵🇭
+
+$ skills --tree
+Glen Brian Decado
+├─ 💻 Development
+│  ├─ JavaScript
+│  │  ├─ TypeScript
+│  │  ├─ React
+│  │  ├─ Node.js
+│  │  ├─ Inertia.js
+│  │  ├─ Alphine.js   
+│  │  ├─ Electron.js
+│  ├─ Php
+│  │  ├─ Laravel
+│  ├─ CSS
+│  │  ├─ Tailwind
+│  │  ├─ Bootsrap
+├─ 🌱 Fun Stuff
+│  ├─ Gaming 🎮
+│  └─ Music 🎵
+└─ ⚡ Status
+   ├─ Coding... 🚀
+   └─ Debugging 🐛
+
+
+</pre>
 
 
                                                                                
