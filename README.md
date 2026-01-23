@@ -1,4 +1,3 @@
-
 <pre>
 My name is
   ________.__                  ________                            .___      
@@ -69,8 +68,6 @@ Glen Brian Decado
 └─ ⚡ Status
    ├─ Coding... 🚀
    └─ Debugging 🐛
-
-
 </pre>
 
 
