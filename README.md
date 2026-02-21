@@ -42,8 +42,13 @@ My name is
 
 
 <div>
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <div style="border: 1px solid #ddd; padding: 8px; display: inline-block;">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+      width="40"
+      height="40"
+      alt="Laravel"
+    />
   </div>
 </div>
 
