@@ -41,9 +41,11 @@ My name is
 </pre>
 
 <pre>
+  
 | Framework | Logo | Description |
 |----------|------|-------------|
 | Laravel  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" /> | PHP web framework |
+  
 </pre>
 
 
