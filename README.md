@@ -10,10 +10,11 @@ My name is
                                                                   
 
 🚀 Welcome to my GitHub!
-</pre>
 
 
-<pre align="center">
+
+
+
         ,   A           {}                         
        / \, | ,        .--.                        
       |    =|= >      /.--.\                       
